@@ -29,3 +29,7 @@ Módosítások követése:
 
 README módosítások elmentése:
 -git commit -m "Dokumentáció véglegesítése"
+
+GitHub feltöltés:
+  -git remote add origin
+  -git push -u
