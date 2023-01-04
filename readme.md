@@ -1,0 +1,22 @@
+Git inicializálása:
+-git init
+
+Project klónozása:
+-git pull https://github.com/szabopeter92/git-vizsga0104
+
+Gitingore és readme file-ok létrehozása
+
+Branch létrehozása:
+-git branch "console"
+
+Átváltás a "console" branch-re:
+-git checkout "console"
+
+Módosítások követése:
+-git add .
+
+Javascript módosítások elmentése:
+-git commit -m "Javascript módosítva"
+
+Módosítások követése:
+-git add .
