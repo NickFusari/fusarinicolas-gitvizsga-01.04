@@ -20,3 +20,12 @@ Javascript módosítások elmentése:
 
 Módosítások követése:
 -git add .
+
+CSS módosítások elmentése:
+-git commit -m "CSS háttér gradient megváltoztatva"
+
+Módosítások követése:
+-git add .
+
+README módosítások elmentése:
+-git commit -m "Dokumentáció véglegesítése"
